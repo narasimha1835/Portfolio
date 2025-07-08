@@ -483,6 +483,7 @@ img {
 .about__buttons{
   display: flex;
   justify-content: center;
+  width: 100%;
 }
 /*==================== SKILLS ====================*/
 .skills__container{

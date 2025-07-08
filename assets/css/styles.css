@@ -458,7 +458,7 @@ img {
 
 .about__info{
   display: flex;
-  justify-content: start;
+  justify-content: center;
   gap:30px;
   margin-bottom: var(--mb-2-5);
 }

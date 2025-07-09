@@ -451,14 +451,14 @@ img {
 }
 
 .about__description{
-  text-align: center;
+  text-align: justify;
   margin-bottom: var(--mb-2-5);
 }
 
 
 .about__info{
   display: flex;
-  justify-content: center;
+  justify-content: start;
   gap:30px;
   margin-bottom: var(--mb-2-5);
 }
@@ -483,7 +483,6 @@ img {
 .about__buttons{
   display: flex;
   justify-content: center;
-  width: 100%;
 }
 /*==================== SKILLS ====================*/
 .skills__container{
